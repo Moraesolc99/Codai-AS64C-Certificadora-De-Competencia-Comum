@@ -18,6 +18,9 @@ Bem-vindo ao repositório do projeto **Codai**, desenvolvido para a disciplina *
 - **📽️ Slides das Aulas de JavaScript:**  
   [Acessar Slides no Canva](https://www.canva.com/design/DAGpBNmKbWU/DWl7F1Puc_T2OScn6fW_Xw/edit?utm_content=DAGpBNmKbWU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
+- **🗂️ Planejamento do Projeto:**  
+  [Visualizar Planejamento](https://moraesolc99.github.io/Codai-AS64C-Certificadora-De-Competencia-Comum/)
+
 ---
 
 ## 👨‍💻 Alunos
@@ -32,4 +35,4 @@ Bem-vindo ao repositório do projeto **Codai**, desenvolvido para a disciplina *
 ## 🧩 Disciplina Escolhida
 
 **Programação Web Front-End**  
-2º Semestre
+Período: 2º Semestre
