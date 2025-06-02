@@ -1,6 +1,6 @@
 # 🌐 Codai - Web Front-End
 
-Bem-vindo ao repositório do projeto **Codai**, desenvolvido para a disciplina **Programação Web Front-End (2º semestre)**. Este projeto visa oferecer conteúdos e materiais de apoio para facilitar o aprendizado de tecnologias do desenvolvimento front-end.
+Bem-vindo ao repositório do projeto **Codai**, desenvolvido para a disciplina **Certificadora de Competência Comum**. Este projeto visa oferecer conteúdos e materiais de apoio para facilitar o aprendizado de tecnologias do desenvolvimento front-end.
 
 ---
 
@@ -19,7 +19,7 @@ Bem-vindo ao repositório do projeto **Codai**, desenvolvido para a disciplina *
   [Acessar Slides no Canva](https://www.canva.com/design/DAGpBNmKbWU/DWl7F1Puc_T2OScn6fW_Xw/edit?utm_content=DAGpBNmKbWU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - **🗂️ Planejamento do Projeto:**  
-  [Visualizar Planejamento](https://moraesolc99.github.io/Codai-AS64C-Certificadora-De-Competencia-Comum/index.html)
+  [Visualizar Planejamento]([https://moraesolc99.github.io/Codai-AS64C-Certificadora-De-Competencia-Comum/index.html](https://github.com/Moraesolc99/Codai-AS64C-Certificadora-De-Competencia-Comum/blob/main/Planejamento%20do%20Projeto/Planejamento.pdf))
 
 ---
 
