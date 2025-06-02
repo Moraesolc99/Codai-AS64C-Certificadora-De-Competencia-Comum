@@ -35,4 +35,3 @@ Bem-vindo ao repositório do projeto **Codai**, desenvolvido para a disciplina *
 ## 🧩 Disciplina Escolhida
 
 **Programação Web Front-End**  
-Período: 2º Semestre
