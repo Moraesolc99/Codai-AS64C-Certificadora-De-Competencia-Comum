@@ -7,7 +7,7 @@ Bem-vindo ao repositório do projeto **Codai**, desenvolvido para a disciplina *
 ## 🔗 Links Importantes
 
 - **🔸 Site oficial:**  
-  [http://www.codai.info/](https://www.codai.info/)
+  [https://www.codai.info/](https://www.codai.info/)
 
 - **📁 Repositório do Site:**  
   [https://github.com/Pecorario/codai](https://github.com/Pecorario/codai)
